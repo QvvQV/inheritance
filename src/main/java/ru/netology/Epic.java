@@ -8,7 +8,7 @@ public class Epic extends Task {
         this.subtasks = subtasks;
     }
 
-    public String[] getSubtasks(){
+    public String[] getSubtasks() {
         return subtasks;
     }
 
